@@ -1,5 +1,5 @@
 {
-    "bond": true,
-    "stake": true,
-    "wrap": true,
+    "bond": 1,
+    "stake": 1,
+    "wrap": 1,
 }
